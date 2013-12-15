@@ -1,10 +1,10 @@
-baseurl: http://acanthe.github.io
+baseurl: http://test.dev/cms-less/prose-starter/_site
 permalink: pretty
 markdown: redcarpet
 prose:
   rooturl: '_posts'
-  siteurl: 'http://acanthe.github.io/'
-  relativeLinks: 'http://acanthe.github.io/links.jsonp'
+  siteurl: 'http://test.dev/cms-less/prose-starter/_site'
+  relativeLinks: 'http://test.dev/cms-less/prose-starter/_site/links.jsonp'
   media: 'media'
   metadata:
     _posts:
